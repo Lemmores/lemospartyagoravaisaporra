@@ -6,6 +6,8 @@ export default function Contact() {
       <Head>
         <title>Página de Contato</title>
       </Head>
+	  <br></br>
+	  <br></br>
       <h2>Siga minhas redes sociais ou entre em contato
         comigo para maiores informações!</h2>
     <br></br>
