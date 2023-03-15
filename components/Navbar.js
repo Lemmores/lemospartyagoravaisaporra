@@ -10,9 +10,6 @@ export default function Navbar() {
   height = "100px" object-fit = "fill" alt="icone" />
       </p>
       <li>
-        <Link href="/">Home</Link>
-      </li>
-      <li>
         <Link href="/duvidas">Dúvidas</Link>
       </li>
       <li>
