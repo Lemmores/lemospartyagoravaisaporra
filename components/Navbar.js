@@ -7,7 +7,7 @@ export default function Navbar() {
    <ul className={styles.navbar}>
        <button type="button" style={{color: "black", backgroundColor: "black", height: "80px",
 	width: "100px", borderColor: "black" , boxShadow: "none", borderBlockStartColor: "black", background: "transparent", border: "none"}} > 
-   <a href = "https://lemosparty-oficial.vercel.app/" style={{ textDecoration : "none", textAlign : "center"}}> <img src="/images/logo.png" width= "100px"
+   <a href = "https://convitelemosparty.vercel.app/" style={{ textDecoration : "none", textAlign : "center"}}> <img src="/images/logo.png" width= "100px"
   height = "100px" object-fit = "fill"  /> </a>
     
   </button>
