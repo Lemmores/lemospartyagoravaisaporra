@@ -4,11 +4,13 @@ import styles from '../styles/Navbar.module.css'
 
 export default function Navbar() {
   return (
-    <ul className={styles.navbar}>
-       <p>
-        <img src = "/images/logo.png" width= "100px"
-  height = "100px" object-fit = "fill" alt="icone" />
-      </p>
+   <ul className={styles.navbar}>
+       <button type="button" style={{color: "black", backgroundColor: "black", height: "80px",
+	width: "100px", borderColor: "black" , boxShadow: "none", borderBlockStartColor: "black", background: "transparent", border: "none"}} > 
+   <a href = "https://lemosparty-oficial.vercel.app/" style={{ textDecoration : "none", textAlign : "center"}}> <img src="/images/logo.png" width= "100px"
+  height = "100px" object-fit = "fill"  /> </a>
+    
+  </button>
       <li>
         <Link href="/duvidas">Dúvidas</Link>
       </li>
