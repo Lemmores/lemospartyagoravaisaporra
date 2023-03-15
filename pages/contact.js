@@ -8,6 +8,8 @@ export default function Contact() {
       </Head>
 	  <br></br>
 	  <br></br>
+	  <br></br>
+	  <br></br>
       <h2>Siga minhas redes sociais ou entre em contato
         comigo para maiores informações!</h2>
     <br></br>
