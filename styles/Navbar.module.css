@@ -16,7 +16,7 @@
 }
 
 .navbar li{
-  margin-top: 20px;
+  margin-top: 30px;
   margin-left: 15px;
  
 }
@@ -24,3 +24,7 @@
 .navbar img{
   justify-content:left;
 } 
+
+.navbar button{
+  margin: 10;
+}
