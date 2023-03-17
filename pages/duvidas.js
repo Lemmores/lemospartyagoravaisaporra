@@ -86,13 +86,25 @@ export default function Duvidas() {
     </div>
   </div>
 </div>
-<div class="accordion-item">
+ <div class="accordion-item">
   <h2 class="accordion-header" id="headingSeven">
-    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSeven" aria-controls="collapseSeven">
-      <strong>  E se eu não for? </strong>
+    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSeven"  aria-controls="collapseSeven">
+      <strong> Os convidados precisam levar alguma coisa? </strong>
     </button>
   </h2>
   <div id="collapseSeven" class="accordion-collapse collapse show" aria-labelledby="headingSeven" data-bs-parent="#accordionExample">
+    <div class="accordion-body">
+        Se os convidados desejarem podem trazer bebidas mesmo havendo algumas bebidas como Caipifruta no evento, há um freezer lá que vocês podem colocar lá.
+    </div>
+  </div>
+</div>
+<div class="accordion-item">
+  <h2 class="accordion-header" id="headingEight">
+    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseEight" aria-controls="collapseEight">
+      <strong>  E se eu não for? </strong>
+    </button>
+  </h2>
+  <div id="collapseEight" class="accordion-collapse collapse show" aria-labelledby="headingEight" data-bs-parent="#accordionExample">
     <div class="accordion-body">
         Você será eternamente banido de futuras LemosPartys! Brincadeira, brincadeira, se você não for eu vou ficar triste com você e vou esfregar na sua cara que
         você perdeu a melhor festa de todos os tempos!
